@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  HitList
 //
-//  Created by Gabriel Petrovick on 29/07/21.
+//  Created by Fabiana Petrovick on 29/07/21.
 //  Copyright © 2021 Fabiana Petrovick. All rights reserved.
 //
 
